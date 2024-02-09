@@ -1,0 +1,47 @@
+{
+    "Astros": [
+      {
+        "id": 1,
+        "name": "Aries",
+        "image": "./images/Aries.jpeg",
+        "description": " "
+      },
+      {
+        "id": 2,
+        "name": "Tauris",
+        "image": "./images/Tauris.jpeg",
+        "description": " "
+      },
+      {
+        "id": 3,
+        "name": "Gemini",
+        "image": "./images/gemini.webp",
+        "description": " "
+      },
+      {
+        "id": 4,
+        "name": "cancer",
+        "image": "./images/astro.jpg",
+        "description": " "
+      },
+      {
+        "id": 5,
+        "name": "Leo",
+        "image": "./images/leo.jpg",
+        "description": " "
+      },
+      {
+        "id": 6,
+        "name": "Virgo",
+        "image": "./images/virgo.jpg",
+        "description": " "
+      },
+      {
+        "id": 7,
+        "name": "Libra",
+        "image": "./images/Libra.jpg",
+        "description": " "
+      }
+      
+    ]
+  }
